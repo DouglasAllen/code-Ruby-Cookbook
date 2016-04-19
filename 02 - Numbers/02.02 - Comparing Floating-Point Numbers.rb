@@ -40,4 +40,3 @@ end
 #--- page 45
 98.6.approx(98.66)                           # => false
 98.6.approx(98.66, 0.001)                    # => true
-#---
